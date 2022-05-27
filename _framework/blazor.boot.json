@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "RosasPage",
@@ -21,7 +21,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
       "Microsoft.JSInterop.dll": "sha256-r5Gn6aCXz+MN7KVt2yRW0KtuccUjlKtCHIwi84Iivj0=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-lGzGmghWC2n88jfdnt\/ZlgOBbU9tjhYhdRO8P4zXTXo=",
-      "RosasPage.dll": "sha256-AzYvRwX143Ykcf2aXMkhmqAU8JdLRcfg+9\/bzNwRqmY=",
+      "RosasPage.dll": "sha256-DqQuPTqKhAa\/hrwjhBFhqbx1Dd0VDG6gm5SWxXSIr2g=",
       "System.Collections.Concurrent.dll": "sha256-o2LZHvoMdKmhQSY2H0K8\/qBqKP9qgCgnvKotNpStB6c=",
       "System.Collections.dll": "sha256-\/o\/j1XBJeEDequKtyJY9pkDFyOuHutFFPrduPXAOJSg=",
       "System.ComponentModel.dll": "sha256-0jLE+56BqHIbPwg1tZ6GO0m2oH7MgNGUm+Qc+oAjTcg=",
